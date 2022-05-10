@@ -39,5 +39,8 @@ description=[/list]
 description=
 description=[h1]Source Code[/h1]
 description=Faster Tire Inflation is open-sourced and published on [url=https://github.com/Orcicorn-ProjectZomboid/FasterTireInflation]Github[/url]
+description=
+description=[h1]Like what I'm doing?[/h1]
+description=[img]https://i.imgur.com/FTz9Qz9.gif[/img] [url=https://ko-fi.com/orcicorn][img]https://i.imgur.com/JiMht5i.png[/img][/url]
 tags=Build 41;Vehicles
 visibility=unlisted
